@@ -23,6 +23,7 @@
             </tr>
           </tbody>
         </table>
+        <p class="p-4 bg-orange-50 text-red-500 font-bold">Info: <span class="font-normal">Harga dapat bertambah tergantung penambahan sablon</span></p>
       </div>
     </div>
   </template>

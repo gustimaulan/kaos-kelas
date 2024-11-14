@@ -6,7 +6,9 @@
         <img src="/images/sablon-kaos-satuan-purwokerto.jpeg" alt="Kaos Kelas" class="w-full h-full object-cover object-center rounded-md" />
       </div>
       <p class="text-sm italic text-gray-5 absolute left-1/2 transform -translate-x-1/2 text-white/50">property of: atlasprinting_</p>
-      <a href="#order" class="mt-6 bg-yellow-300  text-black w-full py-4 rounded uppercase font-bold shadow-lg border-t-2 border-black fixed bottom-0 left-0">Buat Kaos Kelasmu Sekarang!</a>
+      <div class="w-full flex p-2 bg-slate-100 items-center mx-auto justify-center fixed bottom-0 left-0">
+        <a href="#order" class=" w-full py-3 text-lg font-semibold px-8 rounded bg-yellow-300 text-black">Buat Kaos Kelasmu Sekarang!</a>
+      </div>
     </section>
   </template>
   
