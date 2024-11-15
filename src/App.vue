@@ -5,6 +5,7 @@
     <Products />
     <Gallery />
     <PriceTable />
+    <YoutubeEmbed />
     <Testimonials />
     <OrderingProcess />
     <Contact />
@@ -20,6 +21,7 @@ import Testimonials from './components/Testimonials.vue'
 import PriceTable from './components/PriceTable.vue'
 import OrderingProcess from './components/OrderingProcess.vue'
 import Contact from './components/Contact.vue'
+import YoutubeEmbed from './components/YoutubeEmbed.vue'
 
 export default {
   components: {
@@ -31,6 +33,7 @@ export default {
     PriceTable,
     OrderingProcess,
     Contact,
+    YoutubeEmbed,
   },
 }
 </script>
