@@ -8,6 +8,7 @@
     <YoutubeEmbed />
     <Testimonials />
     <OrderingProcess />
+    <FAQ />
     <Contact />
   </div>
 </template>
@@ -22,6 +23,7 @@ import PriceTable from './components/PriceTable.vue'
 import OrderingProcess from './components/OrderingProcess.vue'
 import Contact from './components/Contact.vue'
 import YoutubeEmbed from './components/YoutubeEmbed.vue'
+import FAQ from './components/FAQ.vue'
 
 export default {
   components: {
@@ -34,6 +36,7 @@ export default {
     OrderingProcess,
     Contact,
     YoutubeEmbed,
+    FAQ,
   },
 }
 </script>
