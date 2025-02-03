@@ -7,8 +7,8 @@
           :key="index"
           class="mb-4 border-b p-4 "
         >
-          <h3 class="text-lg font-semibold">▶️ {{ item.question }}</h3>
-          <p class="mt-2">{{ item.answer }}</p>
+          <div class="bg-gray-100 px-4 py-2"><h3 class="text-lg font-semibold">▶️ {{ item.question }}</h3></div>
+          <p class="mt-2 px-4">{{ item.answer }}</p>
         </div>
       </div>
     </div>

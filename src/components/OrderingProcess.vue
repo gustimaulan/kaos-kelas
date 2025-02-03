@@ -9,7 +9,7 @@
       </ol>
       <div class="flex flex-col justify-center mt-4 items-center">
         <img src="/images/panah-gif.gif" alt="arah panah">
-        <WhatsAppButton class="mx-auto mt-8 py-4 px-8" />
+        <WhatsAppButton class=" w-full mx-auto mt-8 py-4 px-8" />
       </div>
     </section>
   </template>
