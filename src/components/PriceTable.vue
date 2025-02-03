@@ -1,7 +1,7 @@
 <template>
     <div class="my-12 px-4">
       <h2 class="text-3xl font-bold text-center mb-8">List Harga Sablon Kaos Kelas</h2>
-      <div class="grid grid-cols-2 gap-4">
+      <div class="grid grid-cols-1 gap-4">
         <div class="mb-4 bg-gray-100 rounded-b-sm">
           <img src="/images/harga-sablon-dtf-purwokerto.webp" alt="Kaos Kelas Contoh 1"
             class="rounded-t shadow">
