@@ -7,7 +7,7 @@
       </div>
       <p class="text-sm italic text-gray-5 absolute left-1/2 transform -translate-x-1/2 text-white/50">property of: atlasprinting_</p>
       <div class="w-full flex p-2 bg-slate-900 items-center mx-auto justify-center fixed bottom-0 left-0">
-        <a href="#order" class=" w-full py-3 text-lg font-semibold px-8 rounded bg-yellow-300 text-black">Buat Kaos Kelasmu Klik Disini!</a>
+        <a href="#order" class=" w-full py-3 text-lg font-semibold px-8 rounded bg-yellow-300 hover:bg-yellow-400 text-black">Buat Kaos Kelasmu Klik Disini!</a>
       </div>
     </section>
   </template>
